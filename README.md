@@ -110,6 +110,10 @@ npm run dev
 ```
 Navigate to `http://localhost:5173/` in your browser.
 
+## 🌍 Final Impact
+### Translating Emotions, Not Just Words
+*Join us in making digital communication more human, one emoji at a time.*
+
 ---
 
 <div align="center">
